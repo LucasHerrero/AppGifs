@@ -33,4 +33,4 @@ Images: ![Image text](https://github.com/LucasHerrero/AppGifs/blob/main/gifapp.p
 
 - Giphy Developer: https://developers.giphy.com/  
 
-### This project still in developing 🔨🔧
+### At this moment the proyect is not finished yet! 🔨🔧
