@@ -23,3 +23,14 @@ ng serve -o
 ## Project preview
 
 Images: ![Image text](https://github.com/LucasHerrero/AppGifs/blob/main/gifapp.png)
+
+
+## 💻 Built using:
+
+· Angular
+
+· Boostrap
+
+- Giphy Developer: https://developers.giphy.com/  
+
+### This project still in developing 🔨🔧
