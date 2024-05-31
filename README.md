@@ -22,4 +22,4 @@ ng serve -o
 
 ## Project preview
 
-Images: ![Image text](https://github.com/LucasHerrero/The-Path/blob/main/tusrutinas.png)
+Images: ![Image text](https://github.com/LucasHerrero/AppGifs/blob/main/gifapp.png)
