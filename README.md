@@ -9,19 +9,17 @@ This is a project made in angular using giphy api. You can search the gifs in th
 1. Check if you have Node Installed in your PC.
 2. Execute the following command
 
-``sh
+```sh
 npm install
-``
+```
 ## Deploy project
 
 1. Execute the following command
 
-``sh
+```sh
 ng serve -o
-``
+```
 
 ## Project preview
 
-Images: 
-
-
+Images: ![Image text](https://github.com/LucasHerrero/The-Path/blob/main/tusrutinas.png)
